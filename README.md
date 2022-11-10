@@ -1,4 +1,3 @@
 # SpotifyMusicQuiz
 
-
-hello chloe :)
+stfu ello chloe :)
